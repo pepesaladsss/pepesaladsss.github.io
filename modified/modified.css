@@ -1,5 +1,5 @@
 .controller.xbox {
-    background: url(xbox-assets/basemod.svg);
+    background: url(xbox-assets/basemod.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,14 +8,14 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxymod.svg);
+    background: url(xbox-assets/abxymod.png);
     width: 48px;
     height: 48px;
 }
 
 .xbox .stick {
     position: absolute;
-    background: url(xbox-assets/stickmod.svg);
+    background: url(xbox-assets/stickmod.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
